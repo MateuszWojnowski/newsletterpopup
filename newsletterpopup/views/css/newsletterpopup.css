@@ -1,0 +1,39 @@
+#newsletter_popup {
+    z-index: 99;
+    position: fixed;
+    width:60vw;
+    height:75vh;
+    margin:auto auto;
+    left:0;
+    right:0;
+    top: 0;
+    bottom:0;
+    background-color: white;
+}
+.title {
+    margin-top: 8vh;
+    text-align: center;
+    font-size: 50px
+}
+.content {
+    margin-top: 8vh;
+    text-align: center;
+    font-size: 30px;
+}
+.form {
+    margin-top: 4vh;
+    text-align: center;
+}
+.input_text {
+    margin: 10px
+}
+.submit {
+    margin-top: 5vh;
+    width: 25vw;
+    height: 7vh;
+    background-color: black;
+    color: white;
+}
+.close {
+text-align: right;
+}
