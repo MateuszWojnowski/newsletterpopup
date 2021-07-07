@@ -17,6 +17,6 @@
     <form class="form" action="" method="post" >
         <input class="input_text" name="name" type="text" placeholder="Imię"/> </br>
         <input class="input_text" name="email" type="text" placeholder="E-mail"/> </br>
-        <input class="submit" type="submit" value="{$newsletterpopup_submit}" onclick="removePopup()">
+        <input class="submit" type="submit" value="{$newsletterpopup_submit}">
     </form>
 </div>
